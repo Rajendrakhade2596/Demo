@@ -1,3 +1,5 @@
 Java world!!
 
 Java is high level programing language.
+
+java is object oriented language.
